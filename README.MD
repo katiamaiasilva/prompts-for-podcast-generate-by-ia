@@ -20,7 +20,7 @@
 
 <p align="center">
     preview do podcast
-    output/Podcast-Avril.mp3
+    https://github.com/katiamaiasilva/prompts-for-podcast-generate-by-ia/blob/35d09655bcafb067f121733f6557a3ba6e1c79e4/output/Podcast-Avril.mp3
 </p>
 
 <div align="center">
