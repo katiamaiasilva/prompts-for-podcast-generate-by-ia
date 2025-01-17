@@ -20,11 +20,11 @@
 
 <p align="center">
     preview do podcast
-    https://github.com/katiamaiasilva/prompts-for-podcast-generate-by-ia/blob/35d09655bcafb067f121733f6557a3ba6e1c79e4/output/Podcast-Avril.mp3
+
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    Clique Aqui <audio src="output/Podcast-Avril.mp3" controls title="Podcast"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
