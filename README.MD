@@ -24,7 +24,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/Podcast-Avril.mp3" controls title="Podcast">Clique Aqui</audio>
+    <audio src="output/Podcast-Avril.mp3" controls title="Podcast"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
