@@ -65,5 +65,10 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Expert
 
+![image](https://github.com/user-attachments/assets/7fbfb836-2e90-4d26-84b8-fba35dca24e9)
+
 Kátia Maia Silva
+- [GitHub](https://github.com/katiamaiasilva) 
+- [LinkedIn](https://www.linkedin.com/in/katia-maia-silva-382a3b331/)
+- [Instagram](https://www.instagram.com/katiamaia._/)
 
